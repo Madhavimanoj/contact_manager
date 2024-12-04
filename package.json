@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Madhavimanoj.github.io/my_contact_manager",
+  "homepage": "https://Madhavimanoj.github.io/contact_manager",
   "browserslist": {
     "production": [
       ">0.2%",
