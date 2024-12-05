@@ -7,7 +7,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/my_contact_manager">
+    <BrowserRouter basename="/contact_manager">
       <App />
     </BrowserRouter>
   </React.StrictMode>
